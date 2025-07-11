@@ -17,6 +17,7 @@ A frontend-only replica of a spreadsheet application built using React, TypeScri
 6)Fully componentized using React and TypeScript
 
 📸 Preview
+Live URL-https://spreadsheet-replica.web.app
 <img width="1901" height="877" alt="image" src="https://github.com/user-attachments/assets/7faa37b4-2b54-4524-af41-937696b1f7b7" />
 
 
