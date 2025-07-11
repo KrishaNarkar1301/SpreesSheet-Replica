@@ -4,7 +4,7 @@ A frontend-only replica of a spreadsheet application built using React, TypeScri
 
 🚀 Features
 
-1)Responsive spreadsheet layoutm
+1)Responsive spreadsheet layout
 
 2)Colored status indicators (In-process, Complete, Blocked, etc.)
 
